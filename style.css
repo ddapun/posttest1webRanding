@@ -1,0 +1,23 @@
+body {
+    width: 700px;
+    padding: 50px;
+    margin: auto;
+  }
+h1 {
+    text-align: center
+}
+p {
+    margin-left: 50px
+}
+a {
+    margin-left: 50px
+}
+img {
+    margin-right: 50px
+}
+li {
+    margin-left: 60px
+}
+ul {
+    margin-left: 10px
+}
